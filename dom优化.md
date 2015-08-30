@@ -108,5 +108,3 @@
 			- 避免在`CSS`中使用`JavaScript expressions(IE only)`。  
 		- 将获取的`DOM`数据缓存起来。这种方法，对获取那些会触发回流操作的属性（比如`offsetWidth`等）尤为重要。  
 		- 当对HTMLCollection对象进行操作时，应该将访问的次数尽可能的降至最低，最简单的，你可以将length属性缓存在一个本地变量中，这样就能大幅度的提高循环的效率。
-	>
->
