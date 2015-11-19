@@ -1,0 +1,3 @@
+跨域的定义：Javascript出于安全性考虑，同源策略机制对跨域访问做了限制。域仅仅是通过“URL的首部”字符串进行识别，“URL的首部”指window.location.protocol +window.location.host，也可以理解为“Domains, protocols and ports must match”。实际上，同源策略就是浏览器的一种保护机制，只要请求双方的URL协议、域名（主机）、端口有任何一个不同，都被当作是跨域。
+
+同源策略机制从 Netscape Navigator 2.0 版本开始就存在，同源策略只对HTML文档有效，同源策略不阻止动态脚本插入。

@@ -4,8 +4,8 @@ module.exports = function(grunt) {
   grunt.initConfig({ 
       concat: {
         bar: {
-          src: ['chapters/default_chapter/default_sections/*.md','chapters/footer.md'],
-          dest: 'README.md',
+          src: ['chapters/ajax/*.md'],
+          dest: 'chapters/ajax/README.md',
         }
       }
   }); 
