@@ -1,7 +1,5 @@
 ## AJAX（Asynchronous Javascript And XML：“异步JavaScript和XML”）
 
-
-
 AJAX 已经是老生常谈的话题了，它最早起源于1997年，由 Microsoft 发明了其中的关键技术并由 Google 将其发扬光大。为什么是 Google 呢，这又是一个悲伤的故事，事实上在1995年 Microsoft 成功推出 IE5 之际就已经开始支持  XmlHttpRequset 对象，令人遗憾的是 Microsoft 高层没有看到它的前景，以至于后来者 Google 成为 AJAX 技术的最卓越的推动者和实践者，从而奠定 Google 在 AJAX 发展史上的领先地位。
 
 - 从现在的角度

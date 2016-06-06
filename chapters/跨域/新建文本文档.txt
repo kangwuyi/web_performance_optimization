@@ -1,7 +1,0 @@
-¿çÓò×ÊÔ´¹²Ïí£¨CORS£©
-https://www.baidu.com/s?wd=%E8%B7%A8%E5%9F%9F%E8%B5%84%E6%BA%90%E5%85%B1%E4%BA%AB%EF%BC%88CORS%EF%BC%89&rsv_spt=1&rsv_iqid=0xad2cfa5a00031ba7&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=0&rsv_t=20cbakG5E7IreDtitzECMGyAcgjpk3DOGCu%2FSqfHOWYpIZZKhOggDu5ViaIZwtvzdm62&oq=%E8%B7%A8%E5%9F%9F&inputT=927&rsv_n=2&rsv_pq=9102789c00004b42&rsv_sug3=4&rsv_sug4=927
-
-http://segmentfault.com/a/1190000000718840
-
-http://www.cnblogs.com/rainman/archive/2011/02/20/1959325.html
-http://blog.csdn.net/hfahe/article/details/7730944
